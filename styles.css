@@ -1,0 +1,17 @@
+#grid {
+    width: 520px;
+    height:200px;
+    display:flex;
+    flex-wrap:wrap;
+    margin:auto;
+}
+img {
+    max-width:130px;
+    min-width:130px;
+    max-height:140px;
+    min-height:140px;
+}
+
+h1, h2 {
+    text-align: center;
+}
